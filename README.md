@@ -1,1 +1,1 @@
-# Wheather-Forecast-App
+# Wheather Forecast Application
